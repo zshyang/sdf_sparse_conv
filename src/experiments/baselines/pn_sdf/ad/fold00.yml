@@ -1,0 +1,8 @@
+based_on:
+  - ../../../sparse1/ad/fold00.yml
+model:
+  name:
+    - pointnet2_sdf  # python file name
+    - Net  # python class name
+save_dir: ../data/save_ckpt_log_summary/baseline_pn_sdf
+version: ad00

@@ -1,0 +1,7 @@
+based_on:
+  - gpu0.yml
+model:
+  name:
+    - pointnet2_field_conv_full  # python file name
+    - Net  # python class name
+version: gpu4
