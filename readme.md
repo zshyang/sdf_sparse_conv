@@ -2,7 +2,7 @@
 
 ## To reproduce the results from paper, do the following steps.
 
-- install `pytorch` and `sparceconov` locally
+- install `pytorch` and `sparceconov`.
 
 The website for sparse convolution is [here](https://github.com/traveller59/spconv)
 
