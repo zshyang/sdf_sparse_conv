@@ -1,6 +1,6 @@
 # Deep Learning on SDF for Classifying Brain Biomarkers
 
-## To reproduce the results from paper, do the following steps,
+## To reproduce the results from paper, do the following steps.
 
 - install `pytorch` and `sparceconov` locally
 
