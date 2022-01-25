@@ -6,7 +6,7 @@
 
 The website for sparse convolution is [here](https://github.com/traveller59/spconv)
 
-- Download the processed dataset from [here](https://drive.google.com/file/d/19LrBrQCKtYJGh-ydfbU4N-SY3-YkuKxA/view?usp=sharing) and unzip it.
+- Download the processed dataset from (https://drive.google.com/file/d/19LrBrQCKtYJGh-ydfbU4N-SY3-YkuKxA/view?usp=sharing) and unzip it.
 
 You would have a folder structure like the following:
 ```
